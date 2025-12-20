@@ -1,6 +1,6 @@
 package stringpractice;
 
-public class Reversecharacterofstring {
+public class P4_Reversecharacterofstring {
 
 	public static void main(String[] args) {
 	 String str=" siii rd  ";

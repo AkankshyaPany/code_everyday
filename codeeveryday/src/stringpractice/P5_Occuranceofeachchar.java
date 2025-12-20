@@ -2,7 +2,7 @@ package stringpractice;
 
 import java.util.HashMap;
 
-public class Occuranceofeachchar {
+public class P5_Occuranceofeachchar {
 
 	public static void main(String[] args) {
 		String str = "morning";

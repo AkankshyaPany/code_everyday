@@ -1,6 +1,6 @@
 package stringpractice;
 
-public class Lastwordofstring {
+public class P3_Lastwordofstring {
 
 	public static void main(String[] args) {
 	    String str = "hello world";

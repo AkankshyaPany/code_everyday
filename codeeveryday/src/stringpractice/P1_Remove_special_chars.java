@@ -1,6 +1,6 @@
 package stringpractice;
 
-public class Remove_special_chars {
+public class P1_Remove_special_chars {
 	public static void main(String[] args) {
 		 String str=" siii    @rd&   !!";
 		 String str1="hello  tyyy  ";

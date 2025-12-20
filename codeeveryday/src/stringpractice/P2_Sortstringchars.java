@@ -1,6 +1,6 @@
 package stringpractice;
 
-public class Sortstringchars {
+public class P2_Sortstringchars {
 
 	public static void main(String[] args) {
 		String str="aakankshya";
