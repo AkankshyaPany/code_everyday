@@ -20,7 +20,7 @@ public class P9_AnagramString {
 		Arrays.sort(str1new);	
 		Arrays.sort(str2new);	
 		
-		if(Arrays.equals(str1new, str2new)) {
+		if(Arrays.equals(str1new, str2new)) { //as they are arrays    when string a.equals(b)
 			return true;
 		}else {
 			return false;
