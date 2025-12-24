@@ -2,7 +2,7 @@ package stringpractice;
 
 import java.util.HashMap;
 
-public class P10_IsomorphicString {
+public class Q1_IsomorphicString {
 
 	public static void main(String[] args) {
 		
