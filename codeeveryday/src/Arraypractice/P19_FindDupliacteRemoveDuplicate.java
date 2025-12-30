@@ -33,9 +33,6 @@ public class P19_FindDupliacteRemoveDuplicate {
 		}
 		System.out.println("removed the duplicate "+set);
 		
-
-
-
 	}
 
 }
